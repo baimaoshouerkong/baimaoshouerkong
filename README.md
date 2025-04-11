@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimaoshouerkong&layout=compact" alt="Top Languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=baimaoshouerkong&count_private=true&show_icons=true" alt="baimaoshouerkong's GitHub stats" />
   </a>
 </div>
 
