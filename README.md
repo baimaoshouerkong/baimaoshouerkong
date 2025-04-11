@@ -9,6 +9,7 @@
 ## 📊 Most Used Languages
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimaoshouerkong&layout=compact" alt="Top Languages">
+  <img src ="./asset/img/emm.png" width =220 vertical-align: middle alt="我很菜的">
 </div>
 
 ---
@@ -16,6 +17,7 @@
 ## 📈 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=baimaoshouerkong&count_private=true&show_icons=true" alt="GitHub Stats">
+  <img src = "./asset/img/sad.png" width =220 vertical-align: middle alt="别骂了别骂了">
 </div>
 
 ---
