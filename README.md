@@ -1,6 +1,8 @@
 # Hello 👋
 <div align="center">
+<div style="font-size: 20px;">
   The number of view :
+</div>
   <img src="https://count.littlebell.top/@baimaoshouerkong?name=baimaoshouerkong&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="baimaoshouerkong">
 </div>
 
@@ -9,7 +11,7 @@
 ## 📊 Most Used Languages
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimaoshouerkong&layout=compact" alt="Top Languages">
-  <img src ="./asset/img/emm.png" width =220 vertical-align: middle alt="我很菜的">
+  <img src ="./asset/img/emm.png" height =165 vertical-align: middle alt="我很菜的">
 </div>
 
 ---
