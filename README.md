@@ -11,7 +11,7 @@
 ## 📊 Most Used Languages
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimaoshouerkong&layout=compact" alt="Top Languages">
-  <img src ="./asset/img/emm.png" height =165 vertical-align: middle alt="我很菜的">
+  <img src ="./asset/img/emm.png" height=165 alt="我很菜的">
 </div>
 
 ---
