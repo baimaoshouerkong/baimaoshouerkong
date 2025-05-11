@@ -1,5 +1,7 @@
 # Hello 👋 
-我是一个热爱ACGN的技术宅
+
+我是一个热爱ACGN的技术宅，这里我会写一点关于我技术，游戏或者偶然编写的小工具
+
 ---
 <div align="center">
 <div style="font-size: 20px;">
