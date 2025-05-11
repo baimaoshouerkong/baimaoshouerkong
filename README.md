@@ -1,6 +1,6 @@
 # Hello 👋 
 
-我是一个热爱ACGN的技术宅，这里我会写一点关于我技术，游戏或者偶然编写的小工具，希望你们能喜欢。如果可以的话能不能给我的项目点个赞
+I am a technology enthusiast who loves ACGN. Here I will write a little about my technology, games, or small tools I occasionally create. I hope you like it. If possible, could you give my project a thumbs up?
 
 ---
 <div align="center">
