@@ -1,6 +1,8 @@
 # Hello 👋 
 
-I am a tech otaku who loves ACGN. Here I will write a little about my technology, games, or small tools I occasionally create. I hope you like it. If possible, could you give my project a thumbs up?
+I am a tech otaku who loves ACGN. 
+Here I will write a little about my technology, games, or small script I occasionally create. 
+I hope you like it. If possible, could you give my project a thumbs up?
 
 ---
 <div align="center">
