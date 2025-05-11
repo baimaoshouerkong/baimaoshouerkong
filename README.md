@@ -1,5 +1,6 @@
 # Hello 👋 
-我是
+我是一个热爱ACGN的技术宅
+---
 <div align="center">
 <div style="font-size: 20px;">
   The number of view :
