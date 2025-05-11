@@ -20,7 +20,3 @@ I am a tech otaku who loves ACGN. Here I will write a little about my technology
 
 ---
 
-## 🔥 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baimaoshouerkong" alt="Contribution Activity Graph">
-</div>
