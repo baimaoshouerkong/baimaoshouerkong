@@ -20,14 +20,6 @@ I am a tech otaku who loves ACGN. Here I will write a little about my technology
 
 ---
 
-## 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baimaoshouerkong&count_private=true&show_icons=true" alt="GitHub Stats">
-  <img src = "./asset/img/sad.png" height=185 vertical-align: middle alt="别骂了别骂了">
-</div>
-
----
-
 ## 🔥 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baimaoshouerkong" alt="Contribution Activity Graph">
