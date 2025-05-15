@@ -1,3 +1,4 @@
+
 # Hello 👋 
 
 I am a tech otaku who loves ACGN. 
@@ -17,12 +18,20 @@ I hope you like it. If possible, could you give my project a thumbs up?
 ---
 
 ## 📊 Most Used Languages
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimaoshouerkong&layout=compact" alt="Top Languages">
-    <img src ="./asset/img/emm.png" height=140 alt="我很菜的">
+<div class ="box">
+  <div>
+  
+  * Despite I'm a programmer,I don't like programing using java
+  
+  * Python, Csharp, Js is my most coding languages
+  
+  * Other languages is in progress
+  
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimaoshouerkong&layout=compact" alt="Top Languages">
+  </div>
 </div>
-
----
 
 ---
 
@@ -33,4 +42,3 @@ I hope you like it. If possible, could you give my project a thumbs up?
 </div>
 
 ---
-
