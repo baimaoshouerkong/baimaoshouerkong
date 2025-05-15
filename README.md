@@ -36,6 +36,19 @@ I hope you like it. If possible, could you give my project a thumbs up?
 
 ---
 
+## 🏆 GitHub Trophies
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
+  
+  * This is my GitHub trophies
+  
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=baimaoshouerkong&theme=radical&row=1&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies">
+  </div>
+</div>  
+---
+
 ## 📈 GitHub Stats
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div>
@@ -48,9 +61,23 @@ I hope you like it. If possible, could you give my project a thumbs up?
 
   </div>
   <div>
-    <img src="https://github-readme-stats-baimaoshouerkongs-projects.vercel.app/api?username=baimaoshouerkong&count_private=true&show_icons=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats-baimaoshouerkongs-projects.vercel.app/api?username=baimaoshouerkong&hide=stars&count_private=true&show_icons=true" alt="GitHub Stats">
   </div>
 </div>
 
+
+## 🏅 GitHub Streak
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
+
+  * This is my GitHub streak
+  
+  * I will keep learning and improving
+
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baimaoshouerkong&theme=radical" alt="GitHub Streak">
+  </div>
+</div>
 
 ---
