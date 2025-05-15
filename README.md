@@ -17,8 +17,7 @@ I hope you like it. If possible, could you give my project a thumbs up?
 ---
 
 ## 📊 Most Used Languages
-<div  style="display: flex; padding: 10px; align-items: center;">
-
+<div  style="display: flex; flex-direction: column; align-items: center;">
 <div>
   
   * Despite I'm a programmer,I don't like programing using java
@@ -38,9 +37,19 @@ I hope you like it. If possible, could you give my project a thumbs up?
 ---
 
 ## 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats-baimaoshouerkongs-projects.vercel.app/api?username=baimaoshouerkong&count_private=true&show_icons=true" alt="GitHub Stats">
-  <img src = "./asset/img/sad.png" height=185 vertical-align: middle alt="别骂了别骂了">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
+
+  * This is my GitHub stats
+  
+  * I am a beginner, so the stats is not very good
+  
+  * I will keep learning and improving
+
+  </div>
+  <div>
+    <img src="https://github-readme-stats-baimaoshouerkongs-projects.vercel.app/api?username=baimaoshouerkong&count_private=true&show_icons=true" alt="GitHub Stats">
+  </div>
 </div>
 
 
