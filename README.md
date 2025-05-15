@@ -1,4 +1,3 @@
-
 # Hello 👋 
 
 I am a tech otaku who loves ACGN. 
@@ -18,8 +17,8 @@ I hope you like it. If possible, could you give my project a thumbs up?
 ---
 
 ## 📊 Most Used Languages
-<div class ="box">
-  <div>
+<div class ="box" style="display: flex; padding : 10px; align-items: center;">
+<div>
   
   * Despite I'm a programmer,I don't like programing using java
   
@@ -27,8 +26,8 @@ I hope you like it. If possible, could you give my project a thumbs up?
   
   * Other languages is in progress
   
-  </div>
-  <div>
+</div>
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimaoshouerkong&layout=compact" alt="Top Languages">
   </div>
 </div>
