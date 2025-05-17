@@ -61,7 +61,7 @@ I hope you like it. If possible, could you give my project a thumbs up?
 
   </div>
   <div>
-    <img src="https://github-readme-stats-baimaoshouerkongs-projects.vercel.app/api?username=baimaoshouerkong&hide=stars&count_private=true&show_icons=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats-baimaoshouerkongs-projects.vercel.app/api?username=baimaoshouerkong&count_private=true&show_icons=true" alt="GitHub Stats">
   </div>
 </div>
 
