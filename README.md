@@ -46,7 +46,8 @@ I hope you like it. If possible, could you give my project a thumbs up?
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=baimaoshouerkong&theme=radical&row=1&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies">
   </div>
-</div>  
+</div>
+
 ---
 
 ## 📈 GitHub Stats
@@ -65,6 +66,7 @@ I hope you like it. If possible, could you give my project a thumbs up?
   </div>
 </div>
 
+---
 
 ## 🏅 GitHub Streak
 <div style="display: flex; flex-direction: column; align-items: center;">
