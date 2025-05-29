@@ -35,7 +35,7 @@ I hope you like it. If possible, could you give my project a thumbs up?
 </div>
 
 ---
-# 目前期末周（断更，大概5月30日考完，还剩2天）
+# 目前期末周（断更，大概5月30日考完，还剩1天）
 
 ## 🏆 GitHub Trophies
 <div style="display: flex; flex-direction: column; align-items: center;">
